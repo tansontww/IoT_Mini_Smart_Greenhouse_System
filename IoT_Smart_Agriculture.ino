@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL5QnD7wJfZ"                                   // Replace with you value
-#define BLYNK_TEMPLATE_NAME "IoT Mini Smart Greenhouse System"              // Replace with you value
-#define BLYNK_AUTH_TOKEN "dV4CC2TKS7t0whUjNqS0prdlb6S-PVva"                 // Replace with you value
+#define BLYNK_TEMPLATE_ID "TMPL5QnD7wJfZ"                                   
+#define BLYNK_TEMPLATE_NAME "IoT Mini Smart Greenhouse System"             
+#define BLYNK_AUTH_TOKEN "dV4CC2TKS7t0whUjNqS0prdlb6S-PVva"                 
 #define BLYNK_PRINT Serial
 
 // Global variables that needs to be replaced with your values!
